@@ -5,7 +5,6 @@
 ## 在线预览
 
 - **训练方案（网页版）**: https://donhsi1.github.io/swim-plan/
-- **小狗漫画彩蛋** 🐾: https://donhsi1.github.io/swim-plan/dog-comic.html
 
 ## 项目内容
 

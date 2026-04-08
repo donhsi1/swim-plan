@@ -50,3 +50,14 @@
 ## License
 
 MIT — 自由使用，欢迎分享 🏊‍♂️
+
+## Yogogo Flutter App
+
+新增 `yogogo_flutter/`：一个参考 The Yoga Collective 信息架构构建的 Flutter 原型应用，包含：
+
+- 首页（Hero、特色入口、精选课程、教师）
+- Classes 页面（分类 + 难度筛选）
+- Collections 页面
+- Profile 页面（Favorites / Collections / Viewed / Account）
+
+> 说明：当前为本地 mock 数据原型，方便后续接入真实 API 与视频播放能力。
